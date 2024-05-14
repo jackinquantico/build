@@ -254,3 +254,5 @@ Armbian's partnership program helps to support Armbian and the Armbian community
 ## License
 
 This software is published under the GPL-2.0 License license.
+
+asdf
